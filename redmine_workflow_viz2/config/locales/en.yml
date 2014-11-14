@@ -1,0 +1,6 @@
+# English strings go here for Rails i18n
+en:
+  #my_label: "My label english"
+  headlineForWorkflowGraph: "Workflow graph"
+  infolineForWorkflowGraph: "The graph includes only the general case without the additional transitions."
+  infoIfSeveralItemsSelected: "Too many roles or trackers selected."
